@@ -1,1 +1,2 @@
-# Netflix_Movies_-_TV_Shows_Data_Analysis_Using_SQL
+# Netflix Movies & TV Shows Data Analysis Using SQL
+Analyzed Netflix's movies and TV shows data using SQL to extract valuable insights and address key business questions. The project focused on uncovering patterns, trends, and data-driven solutions to optimize content strategy and user engagement. Findings revealed insights into popular genres, content distribution, and production trends, offering actionable recommendations for business decision-making.
